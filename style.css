@@ -6,9 +6,6 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-.keywords {
-    color:#F3976C;
-}
 a,
 button {
     transition: all .3s ease-in-out;
@@ -739,6 +736,10 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
+}
+
+.sort_of_grey {
+    color: #1E1E1E!important;
 }
 
 .portfolio-thumb {
