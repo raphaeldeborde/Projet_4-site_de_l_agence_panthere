@@ -741,7 +741,9 @@ h4 {
 .sort_of_grey {
     color: #1E1E1E!important;
 }
-
+.col-sm-4 a {
+    color: #1E1E1E!important;
+}
 .portfolio-thumb {
     margin-bottom: 24px;
 }
