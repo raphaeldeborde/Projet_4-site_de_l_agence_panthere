@@ -6,7 +6,13 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-
+.keywords {
+    color:#cccccc;
+    font-size:1px;
+}
+.keywords2 {
+    color:#F3976C;
+}
 a,
 button {
     transition: all .3s ease-in-out;
