@@ -741,9 +741,23 @@ h4 {
 .sort_of_grey {
     color: #1E1E1E!important;
 }
+
 .col-sm-4 a {
     color: #1E1E1E!important;
 }
+
+.taille_22_pixels {
+    font-size:22px;
+}
+
+.taille_18_pixels {
+    font-size:18px;
+}
+
+.taille_20_pixels {
+    font-size:20px;
+}
+
 .portfolio-thumb {
     margin-bottom: 24px;
 }
