@@ -753,7 +753,7 @@ h4 {
 
 .taille_18_pixels {
     font-size:18px;
-    margin: 0% 3% 0% 3%;
+    padding: 0% 10% 0% 10%!important;
 }
 
 .taille_20_pixels {
