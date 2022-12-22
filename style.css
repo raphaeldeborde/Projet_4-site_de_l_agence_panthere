@@ -748,14 +748,17 @@ h4 {
 
 .taille_22_pixels {
     font-size:22px;
+    margin: 0% 3% 0% 3%;
 }
 
 .taille_18_pixels {
     font-size:18px;
+    margin: 0% 3% 0% 3%;
 }
 
 .taille_20_pixels {
     font-size:20px;
+    margin: 0% 3% 0% 3%;
 }
 
 .portfolio-thumb {
