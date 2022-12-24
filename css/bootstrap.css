@@ -1427,7 +1427,9 @@ figure {
 }
 
 img {
-    vertical-align: middle
+    vertical-align: middle;
+    height:10px;
+    width:10px;
 }
 
 .carousel-inner>.item>a>img,
@@ -2304,8 +2306,7 @@ pre code {
         float: left
     }
     .col-sm-12 {
-        width: 10px;
-        height:10px;
+        width: 100%
     }
     .col-sm-11 {
         width: 91.66666667%
