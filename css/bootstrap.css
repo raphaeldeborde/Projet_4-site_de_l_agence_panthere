@@ -1428,8 +1428,8 @@ figure {
 
 img {
     vertical-align: middle;
-    height:10px;
-    width:10px;
+    height:100px;
+    width:100px;
 }
 
 .carousel-inner>.item>a>img,
