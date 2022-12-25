@@ -703,6 +703,8 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    padding-top:10px;
+    padding-bottom: 10px;
 }
 
 h2 {
@@ -746,6 +748,9 @@ h4 {
 
 .col-sm-4 a {
     color: #1E1E1E!important;
+}
+
+.hauteur_de_lien_du_footer {
     padding-bottom: 16px;
     padding-top: 16px;
 }
