@@ -703,8 +703,7 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
-    padding-top:16px;
-    padding-bottom: 16px;
+    padding:16px;
 }
 
 h2 {
