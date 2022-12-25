@@ -746,6 +746,8 @@ h4 {
 
 .col-sm-4 a {
     color: #1E1E1E!important;
+    padding-bottom: 16px;
+    padding-top: 16px;
 }
 
 .taille_22_pixels {
